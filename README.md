@@ -1,6 +1,6 @@
-🏠 House Price Prediction
+# 🏠 House Price Prediction
 
-📌 Project Overview
+## 📌 Project Overview
 
 This project predicts house prices using Machine Learning.
 
@@ -11,7 +11,7 @@ The model uses house-related features such as:
 - Number of Bathrooms
 - Age of House
 
-🛠️ Technologies Used
+## 🛠️ Technologies Used
 
 - Python
 - Pandas
@@ -21,7 +21,7 @@ The model uses house-related features such as:
 - Joblib
 - Jupyter Notebook
 
-🔄 Project Workflow
+## 🔄 Project Workflow
 
 1. Load the dataset
 2. Understand the data
@@ -33,13 +33,13 @@ The model uses house-related features such as:
 8. Predict the price of a new house
 9. Save the trained model
 
-🤖 Models Used
+## 🤖 Models Used
 
 - Linear Regression
 - Decision Tree Regression
 - Random Forest Regression
   
-📊 Evaluation Metrics
+## 📊 Evaluation Metrics
 
 The models are evaluated using:
 
