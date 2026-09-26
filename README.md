@@ -62,3 +62,20 @@ The models are evaluated using:
 
 The trained model is saved as a .pkl file so that it can be loaded later
 without training the model again.
+
+## 🎯 Objective
+
+The objective of this project is to understand the complete Machine Learning
+workflow from data preprocessing to house price prediction.
+
+## 🚀 Future Scope
+
+- 🌐 Deploy the model using Flask
+- 🖥️ Create a simple web interface
+- ☁️ Deploy the application online
+
+## 👩‍💻 Author
+
+*Naina Joriya*
+
+Aspiring Data Analyst | Python | SQL | Excel | Power BI | Machine Learning
